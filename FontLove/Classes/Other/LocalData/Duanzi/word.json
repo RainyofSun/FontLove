@@ -1,0 +1,54 @@
+{
+    "code": 0,
+    "msg": null,
+    "url": null,
+    "data": {
+        "totalSize": 2,
+        "totalPageCount": 1,
+        "pageIndex": 1,
+        "pageSize": 20,
+        "list": [{
+            "categoryId": "670b07cb-a695-4265-b02c-d29d9a4f27e4",
+            "categoryName": "最新",
+            "haveMore": true,
+            "dataList": [{
+                "id": "0f8f3877-c920-4be4-a3e7-109d15e20bad",
+                "text": "黄色的花遍地摇曳，紫色的花漫山遍野，红色的花随着山岗连绵起伏，流水一样的人生，静静看花开花落。",
+                "collectFlag": false
+            }, {
+                "id": "1186fa72-fb37-429d-a990-08b719e70bd8",
+                "text": "你可曾知道，我总是在下雨时分，宁静与忧伤之间，最想念你。你可曾知道，我总是在落雪时节，沉默与孤独之间，最想念你。",
+                "collectFlag": false
+            }, {
+                "id": "11e9003d-cc18-4f8c-96b5-3b2c2a5f516f",
+                "text": "因为偶然，蔷薇岛屿上长着两棵樱桃树。因为偶然，茫茫人海中多了两个相爱的人。一个人是一座蔷薇岛屿。",
+                "collectFlag": false
+            }, {
+                "id": "1257582d-6dfa-4154-9915-864123f818b2",
+                "text": "离开一个人，才知道自己有多么的需要他。",
+                "collectFlag": false
+            }]
+        }, {
+            "categoryId": "2cdf7f9a-bb9c-440a-a2b3-6164381d9d17",
+            "categoryName": "热门",
+            "haveMore": true,
+            "dataList": [{
+                "id": "010749dd-9c7b-42bb-8f3a-b30ead50ebdb",
+                "text": "他想起少年时期，漫天的大雪，冰封的世界，他在雪地上写诗。整片山坡被纯洁的白雪覆盖，整片山坡都有他用木棍儿写下的诗。过去的那些岁月，那些梦想，就像写在雪地上的诗，太阳升起，就消失不见了。——《十宗罪》",
+                "collectFlag": false
+            }, {
+                "id": "09158b75-ecfe-4b17-aa2b-56bfb6e57f35",
+                "text": "雪，一片，一片，一片，一片，拼出你我的缘分，我的爱因你而生，你的手摸出我的心疼。雪，一片，一片，一片，一片，在天空静静缤纷。眼看春天就要来了，而我也将，也将不再生存。",
+                "collectFlag": false
+            }, {
+                "id": "0f67905f-05ce-4cab-abac-e3399f127596",
+                "text": "他们犯罪绝不是因为贫穷，而是因为无法改变贫穷的生活。",
+                "collectFlag": false
+            }, {
+                "id": "2eafb098-a8ac-46ba-b3f0-614d71616bde",
+                "text": "即使是生活在泥潭里的人，也向往着美好的明天，正如黑暗中的向日葵始终能够辨别阳光的方向。",
+                "collectFlag": false
+            }]
+        }]
+    }
+}
